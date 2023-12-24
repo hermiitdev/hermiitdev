@@ -62,7 +62,6 @@ Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es esc
   </a>
   </a>
 </p>
-<br>
 
 <h3 align="">Preferred IDEs  & Tools :</h3>
 <p align=""> 
