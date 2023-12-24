@@ -48,10 +48,6 @@ Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es esc
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
   </a>
-  
-      
-  </a>
-  </a>
 </p>
 
 <h3 align="">IDE</h3>
