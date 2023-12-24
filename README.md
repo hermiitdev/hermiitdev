@@ -25,7 +25,7 @@ Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es esc
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="left"align="center" >
   <a href="https://skillicons.dev">
     <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
