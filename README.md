@@ -12,8 +12,10 @@
     <a href="https://instagram.com/abdo.achhoubi" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
-   <a href="" target="_blank">
-    </a>
+   <a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+     
 <br />
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
