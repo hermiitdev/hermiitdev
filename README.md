@@ -20,6 +20,10 @@ Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es esc
   <a href="https://skillicons.dev">
     <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+      <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
   </a>
   </a>
 </p>
