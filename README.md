@@ -62,4 +62,8 @@ Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es esc
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
+    <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="postman"/>
+</a>
+    
 </p>
