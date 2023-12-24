@@ -65,7 +65,7 @@ Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es esc
 <br>
 
 <h3 align="">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
+<p align=""> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
