@@ -17,7 +17,6 @@
 &emsp;
      
 <br />
-gfgfdg
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 Ingeneriero de Software
