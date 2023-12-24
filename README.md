@@ -46,12 +46,12 @@ Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es esc
       alt="docker"/>
   </a>
           <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-   <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
+   
 </p>
 <div>
-    
+    <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
 </div>
 <h3 align="">IDE</h3>
 <p align=""> 
