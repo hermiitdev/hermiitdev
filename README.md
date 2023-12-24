@@ -12,7 +12,9 @@
     <a href="https://instagram.com/abdo.achhoubi" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
-    <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+   <a href="" target="_blank">
+    <img src=[https://img.shields.io/badge/instagram-%ff5851db.svg?color](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev)=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a>
 <br />
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
