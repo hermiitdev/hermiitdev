@@ -18,7 +18,7 @@
 <!--Intro start-->
 Ingeneriero de Software
 
-Soy desarrollador Back-End, me gusta programar proyectos y mi pasa tiempo es escribir codigo.
+Soy desarrollador Back-End.
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
