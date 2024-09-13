@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋 Soy Jack / HertmitDev ✨</h1>
+<h1 align="center">Hola 👋 Soy Jack / HermitDev ✨</h1>
 <p align="center">
 
 <div align="center">
