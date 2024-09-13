@@ -17,6 +17,7 @@
 </p>
 <h2 >Tecnologías y Herramientas👨🏻‍💻</h2>
 <!--tech stack icons-->
+<h3>Lenguajes de Programación👨🏻‍💻</h3>
 <p align="left" >
   <a href="https://skillicons.dev">
     <a href="https://spring.io/" target="_blank"> 
