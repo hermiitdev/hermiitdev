@@ -16,16 +16,8 @@
 <p>Soy un desarrollador backend especializado en la creación de soluciones escalables y seguras. Me enfoco en optimizar el rendimiento de las aplicaciones y mejorar la experiencia del cliente, resolviendo problemas complejos de manera eficiente. Disfruto del trabajo en equipo y me apasiona enseñar, ya que compartir conocimientos es fundamental para el crecimiento tanto personal como profesional. Estoy comprometido con el aprendizaje continuo y la mejora constante en el desarrollo de software.
 </p>
 <br />
-## 📫 Connect with Me
 
-
-
-
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-Soy desarrollador Back-End.
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías y Herramientas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left" >
   <a href="https://skillicons.dev">
