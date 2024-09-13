@@ -13,7 +13,6 @@
     <a target="_blank" href="j.perezingdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </div>
 <br />
-<br />
 <p>Soy un desarrollador backend especializado en la creación de soluciones escalables y seguras. Me enfoco en optimizar el rendimiento de las aplicaciones y mejorar la experiencia del cliente, resolviendo problemas complejos de manera eficiente. Disfruto del trabajo en equipo y me apasiona enseñar, ya que compartir conocimientos es fundamental para el crecimiento tanto personal como profesional. Estoy comprometido con el aprendizaje continuo y la mejora constante en el desarrollo de software.
 </p>
 <br />
