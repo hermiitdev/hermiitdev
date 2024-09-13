@@ -16,7 +16,9 @@
 <br />
 <p>Soy un desarrollador backend especializado en la creación de soluciones escalables y seguras. Me enfoco en optimizar el rendimiento de las aplicaciones y mejorar la experiencia del cliente, resolviendo problemas complejos de manera eficiente. Disfruto del trabajo en equipo y me apasiona enseñar, ya que compartir conocimientos es fundamental para el crecimiento tanto personal como profesional. Estoy comprometido con el aprendizaje continuo y la mejora constante en el desarrollo de software.
 </p>
+
 <h2 style="color:#FF0000; font-family:Arial, sans-serif;">Tecnologías y Herramientas 👨🏻‍💻</h2>
+
 <!--tech stack icons-->
 <h3>Lenguajes de Programación</h3>
 
