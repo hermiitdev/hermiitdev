@@ -12,7 +12,9 @@
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
     <a target="_blank" href="j.perezingdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </div>
-     
+<p>"Soy un desarrollador backend con experiencia en la creación de aplicaciones robustas y escalables utilizando tecnologías como Java, Spring Boot, Spring Security y bases de datos como PostgreSQL, MySQL y MongoDB. Me especializo en diseñar arquitecturas eficientes y optimizar el rendimiento del servidor, asegurando la seguridad a través de implementaciones sólidas de Spring Security y garantizando la integración fluida entre los sistemas. Con un enfoque en la solución de problemas complejos, me esfuerzo por desarrollar soluciones que mejoren tanto la experiencia del cliente como el rendimiento de las aplicaciones. Además, estoy comprometido con el aprendizaje continuo y la adopción de las mejores prácticas en desarrollo de software."
+
+</p>
 <br />
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
